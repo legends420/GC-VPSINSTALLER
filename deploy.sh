@@ -127,7 +127,7 @@ echo -e " ${YELLOW}                   /%%%(*,        .,/#%%%/                 "
 echo -e " ${YELLOW}                        ,(%%%%%%%%%(,                      ${NC}"
 sleep 4
 echo -e " ${RED}■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■${NC}"
-echo -e " ${YELLOW}$PROJECT Masternode Installer v$VERSION - chris & legends 2018"
+echo -e " ${YELLOW}$PROJECT Masternode Installer v$VERSION - 2018 chris & 2020 GanjaCoin Team"
 echo -e " ${RED}■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■${NC}"
 echo
 echo -e "${BLUE} This script will automate the installation of your ${YELLOW}$PROJECT ${BLUE}masternode along "
@@ -226,7 +226,7 @@ EOF
 function prepare_QT()
 {
   echo -e " ${BLUE}This is a text guide complementing the instructions with pictures on the GitHUB! ${NC}"
-  echo -e " https://github.com/zaemliss/installers/tree/master/ganjacoin "
+  echo -e " https://github.com/legends420/GC-VPSINSTALLER"
   echo
   echo -e "${YELLOW} QT Wallet Preparation : (you need your Windows or Mac wallet open for this step!)${NC}"
   echo
